@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ApiApplication",
+            "request": "launch",
+            "mainClass": "com.zeroslope.api.ApiApplication",
+            "projectName": "ZeroSlope.Java.Spring"
+        }
+    ]
+}
